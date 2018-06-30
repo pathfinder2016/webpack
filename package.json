@@ -2,10 +2,11 @@
   "name": "webpack-demo",
   "version": "1.0.0",
   "description": "Just for webpack learning",
-  "private": true, //确保我们安装包是私有的(private)
-//  "main": "index.js", //移除 main 入口。这可以防止意外发布你的代码
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
   },
   "repository": {
     "type": "git",
