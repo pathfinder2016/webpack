@@ -1,2 +1,4 @@
 /demo-02-asset-management/node_modules/**
 /.idea/**
+/demo-02-asset-management-css/node_modules/**
+/demo-03-asset-management-image/node_modules/**
