@@ -1,0 +1,30 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "Just for webpack learning",
+  "private": true, //确保我们安装包是私有的(private)
+//  "main": "index.js", //移除 main 入口。这可以防止意外发布你的代码
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pathfinder2016/webpack.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Mike Xie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pathfinder2016/webpack/issues"
+  },
+  "homepage": "https://github.com/pathfinder2016/webpack#readme",
+  "devDependencies": {
+    "webpack": "^4.14.0",
+    "webpack-cli": "^3.0.8"
+  },
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
