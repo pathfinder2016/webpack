@@ -3,3 +3,6 @@
 /demo-02-asset-management-css/node_modules/**
 /demo-03-asset-management-image/node_modules/**
 /demo-04-manage-output/node_modules/**
+/demo-05-source-map/dist/**
+/demo-05-source-map/node_modules/**
+/demo-06-devtools-auto-complie/node_modules/**
