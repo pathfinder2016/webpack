@@ -6,3 +6,4 @@
 /demo-05-source-map/dist/**
 /demo-05-source-map/node_modules/**
 /demo-06-devtools-auto-complie/node_modules/**
+/demo-07-production-env/node_modules/**
